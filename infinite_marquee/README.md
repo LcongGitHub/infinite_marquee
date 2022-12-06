@@ -15,9 +15,9 @@ and the Flutter guide for
 
 ## Features
 
-自定义跑马灯
-支持：自动滚动、无限循环、自定义跑马的内容。
-支持：手势拖拽、点击。
+自定义跑马灯 \n
+支持：自动滚动、无限循环、自定义跑马的内容。\n
+支持：手势拖拽、点击。\n
 
 ![image](https://github.com/LcongGitHub/infinite_marquee/blob/main/infinite_marquee/test.gif)
 
