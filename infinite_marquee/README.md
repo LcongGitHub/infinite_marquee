@@ -19,7 +19,7 @@ and the Flutter guide for
 支持：自动滚动、无限循环、自定义跑马的内容。
 支持：手势拖拽、点击。
 
-![image]
+![image](https://github.com/LcongGitHub/infinite_marquee/blob/main/infinite_marquee/test.gif)
 
 ```dart
   @override
